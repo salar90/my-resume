@@ -1,0 +1,34 @@
+.container.container-page{
+    max-width: 30cm;
+}
+
+/* Header */
+header{
+    background: #374458;
+    padding: 20px;
+}
+header .name{
+    color: #FFF;
+}
+header .title{
+    color: #4b96db;
+}
+header .description{
+    color: #FFF;
+}
+header .photo{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    border: 7px solid #4f90cd;
+    overflow: hidden;
+}
+header .photo img{
+    max-width: 100%;
+    height: auto;
+}
+/* Contact */
+.section-contact{
+    background: #2b343f;
+    padding: 20px;
+}
