@@ -28,6 +28,13 @@
         </div>
     </header>
     <div class="section-contact">
+        <div class="row">
+            <span class="col-md-6">
+                <i class="icon i-mail"></i>
+                salar.g@gmail.com
+            </span>
+        </div>
+
 
     </div>
 </div>

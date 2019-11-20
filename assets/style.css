@@ -31,4 +31,18 @@ header .photo img{
 .section-contact{
     background: #2b343f;
     padding: 20px;
+    color: #FFF;
 }
+
+.icon{
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.icon.i-mail{ background: url("icons/icon-mail.png")}
+.icon.i-github{ background: url("icons/icon-github.png")}
+.icon.i-location{ background: url("icons/icon-location.png")}
+.icon.i-medium{ background: url("icons/icon-medium.png")}
+.icon.i-phone{ background: url("icons/icon-phone.png")}
+.icon.i-www{ background: url("icons/icon-www.png")}
