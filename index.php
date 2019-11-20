@@ -33,6 +33,28 @@
                 <i class="icon i-mail"></i>
                 salar.g@gmail.com
             </span>
+            <span class="col-md-6">
+                <i class="icon i-phone"></i>
+                +98-9149000795
+            </span>
+
+            <span class="col-md-6">
+                <i class="icon i-location"></i>
+                Mashrooteh Blvd, Tabriz, Iran
+            </span>
+            <span class="col-md-6">
+                <i class="icon i-www"></i>
+                http://salar.one/
+            </span>
+
+            <span class="col-md-6">
+                <i class="icon i-github"></i>
+                github.com/salar90
+            </span>
+            <span class="col-md-6">
+                <i class="icon i-medium"></i>
+                medium.com/@salar_one
+            </span>
         </div>
 
 
