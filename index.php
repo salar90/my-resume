@@ -73,7 +73,7 @@
                         <h4 class="small-attention">Achievements / Tasks</h4>
                         <ul>
                             <li>implemented a new e-commerce platform using Laravel
-                                framwwork.</li>
+                                framework.</li>
                             <li>implemented main SaymanDigital WordPress theme.</li>
                             <li>implemented 20 WordPress plugins and extending WooCommerce.</li>
                             <li>Applied SEO and speed optimizations.</li>
