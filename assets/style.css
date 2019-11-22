@@ -56,6 +56,9 @@ header .photo img{
 }
 .section-resume .heading{
     color: var(--blue);
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: 1.8rem;
 }
 .section-resume .item-header{
     color: #222;
@@ -74,4 +77,12 @@ header .photo img{
 }
 .section-resume .item a:after{
     content: " 🔗";
+}
+.section-resume .item p{
+    margin-bottom: .5rem;
+}
+.attention-small{
+    color: var(--blue);
+    font-size: .9rem;
+    margin: 0;
 }

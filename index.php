@@ -64,13 +64,16 @@
                 <section class="section-resume">
                     <h2 class="heading">Work Experience</h2>
                     <div class="item">
-                        <h3 class="item-header">Back-end and Front-end Developer</h3>
-                        <a class="item-sub-header" href="https://saymandigital.com/">SaymanDigital</a>
+                        <h3 class="item-header">
+                            Back-end and Front-end Developer,
+                            <a href="https://saymandigital.com/">SaymanDigital</a>
+                        </h3>
+                        <cite class="attention-small">01/2016 – Present</cite>
                         <p class="description">
                             SaymanDigital is an E-Commerce startup that sells digital equipment. It
                             has reached an Alexa rank of 500 in Iran.
                         </p>
-                        <h4 class="small-attention">Achievements / Tasks</h4>
+                        <h4 class="attention-small">Achievements / Tasks</h4>
                         <ul>
                             <li>implemented a new e-commerce platform using Laravel
                                 framework.</li>
@@ -81,6 +84,7 @@
                             <li>Administrating the main website (deployment, automated backups, security)</li>
                         </ul>
                     </div>
+
                 </section>
             </div>
             <div class="col-md-6"></div>
