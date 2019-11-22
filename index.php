@@ -56,9 +56,13 @@
                 medium.com/@salar_one
             </span>
         </div>
+    </div>
 
+    <div class="resume-body">
 
     </div>
+
+
 </div>
 </body>
 </html>
