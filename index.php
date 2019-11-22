@@ -130,7 +130,20 @@
                 </section>
 
             </div>
-            <div class="col-md-6"></div>
+            <div class="col-md-6">
+                <section class="section-resume">
+                    <h2 class="heading">Skills</h2>
+                    <span class="skill">Laravel Framework</span>
+                    <span class="skill">Teamwork</span>
+                    <span class="skill">Git</span>
+                    <span class="skill">HTML5/CSS3</span>
+                    <span class="skill">WordPress Development</span>
+                    <span class="skill">jQuery</span>
+                    <span class="skill">ReactJS</span>
+                    <span class="skill">Linux</span>
+
+                </section>
+            </div>
         </div>
     </div>
 
