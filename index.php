@@ -107,6 +107,12 @@
                             <li>implemented WordPress theme and plugins.</li>
                             <li>implemented HTML template for <a href="https://monovm.com">monovm.com</a>.</li>
                         </ul>
+
+                        <div class="small">
+                            <cite><span class="attention-small">Contact:</span> </cite>
+                            Sina Nassiri –
+                            <a class="none-link" href="mailto://info@azarinline.com">info@azarinline.com</a>
+                        </div>
                     </div>
 
                 </section>

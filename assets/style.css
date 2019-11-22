@@ -78,6 +78,9 @@ header .photo img{
 .section-resume .item a:after{
     content: " 🔗";
 }
+.section-resume .item a.none-link:after{
+    content: "";
+}
 .section-resume .item p{
     margin-bottom: .5rem;
 }
@@ -85,4 +88,7 @@ header .photo img{
     color: var(--blue);
     font-size: .9rem;
     margin: 0;
+}
+.small{
+    font-size: .9rem;
 }
