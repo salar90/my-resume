@@ -164,6 +164,16 @@
                     </div>
                 </section>
 
+                <section class="section-resume">
+                    <h2 class="heading">Languages</h2>
+                    <ul>
+                        <li>English (IELTS Band Score: 6.5)</li>
+                        <li>Persian (native)</li>
+                        <li>Azeri (second language / native)</li>
+                        <li>Turkish (good in speaking and listening)</li>
+                    </ul>
+                </section>
+
                 <section class="section-resume mb-3">
                     <h2 class="heading">Interests</h2>
                     <span class="skill">Friends</span>
