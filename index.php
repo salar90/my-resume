@@ -84,6 +84,7 @@
                             <li>Applied SEO and speed optimizations.</li>
                             <li>implemented backend for Application API.</li>
                             <li>Administrating the main website (deployment, automated backups, security)</li>
+                            <li>Awarded 3 times as well-performing employee of the month.</li>
                         </ul>
                     </div>
 
@@ -131,7 +132,7 @@
 
             </div>
             <div class="col-md-6">
-                <section class="section-resume">
+                <section class="section-resume mb-3">
                     <h2 class="heading">Skills</h2>
                     <span class="skill">Laravel Framework</span>
                     <span class="skill">Teamwork</span>
@@ -141,8 +142,17 @@
                     <span class="skill">jQuery</span>
                     <span class="skill">ReactJS</span>
                     <span class="skill">Linux</span>
-
                 </section>
+
+                <section class="section-resume">
+                    <h2 class="heading">Honor Awards</h2>
+                    <div class="item">
+                        <h3 class="item-header">1st rank in ACPC programming contest</h3>
+                        <p class="description mb-0">ACPC was a programming contest in East Azarbayjan state of Iran</p>
+                        <cite class="attention-small">12/2010</cite>
+                    </div>
+                </section>
+
             </div>
         </div>
     </div>
