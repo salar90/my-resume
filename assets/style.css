@@ -61,10 +61,17 @@ header .photo img{
     color: #222;
     font-size: 1.2rem;
     font-weight: bold;
+    margin: 0;
 }
 .section-resume .item-sub-header{
     color: #222;
     font-size: 1.1rem;
     font-weight: normal;
     display: block;
+}
+.section-resume .item a{
+    display: inline-block;
+}
+.section-resume .item a:after{
+    content: " 🔗";
 }

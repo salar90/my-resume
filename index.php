@@ -65,7 +65,7 @@
                     <h2 class="heading">Work Experience</h2>
                     <div class="item">
                         <h3 class="item-header">Back-end and Front-end Developer</h3>
-                        <span class="item-sub-header">SaymanDigital</span>
+                        <a class="item-sub-header" href="https://saymandigital.com/">SaymanDigital</a>
                         <p class="description">
                             SaymanDigital is an E-Commerce startup that sells digital equipment. It
                             has reached an Alexa rank of 500 in Iran.
