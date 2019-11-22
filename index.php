@@ -61,7 +61,7 @@
     <div class="resume-body">
         <div class="row">
             <div class="col-md-6">
-                <section class="section-resume">
+                <section class="section-resume mb-3">
                     <h2 class="heading">Work Experience</h2>
                     <div class="item">
                         <h3 class="item-header">
@@ -116,6 +116,19 @@
                     </div>
 
                 </section>
+
+                <section class="section-resume">
+                    <h2 class="heading">Certificates</h2>
+                    <div class="item">
+                        <h3 class="item-header">Participated in The Spring of Startup Entrepreneurs</h3>
+                        <cite class="attention-small">05/2018</cite>
+                    </div>
+                    <div class="item">
+                        <h3 class="item-header">Participated in "The Successful seller" seminar</h3>
+                        <cite class="attention-small">05/2011</cite>
+                    </div>
+                </section>
+
             </div>
             <div class="col-md-6"></div>
         </div>
