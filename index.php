@@ -153,7 +153,7 @@
                     </div>
                 </section>
 
-                <section class="section-resume">
+                <section class="section-resume mb-3">
                     <h2 class="heading">Relevant Education</h2>
                     <div class="item">
                         <h3 class="item-header">
@@ -164,6 +164,12 @@
                     </div>
                 </section>
 
+                <section class="section-resume mb-3">
+                    <h2 class="heading">Interests</h2>
+                    <span class="skill">Friends</span>
+                    <span class="skill">Music</span>
+                    <span class="skill">Mountains</span>
+                </section>
             </div>
         </div>
     </div>
