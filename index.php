@@ -68,7 +68,9 @@
                             Back-end and Front-end Developer,
                             <a href="https://saymandigital.com/">SaymanDigital</a>
                         </h3>
-                        <cite class="attention-small">01/2016 – Present</cite>
+                        <cite class="attention-small d-inline-block">01/2016 – Present</cite>
+                        <cite class="attention-small d-inline-block mx-4">Tabriz, Iran</cite>
+
                         <p class="description">
                             SaymanDigital is an E-Commerce startup that sells digital equipment. It
                             has reached an Alexa rank of 500 in Iran.
@@ -82,6 +84,28 @@
                             <li>Applied SEO and speed optimizations.</li>
                             <li>implemented backend for Application API.</li>
                             <li>Administrating the main website (deployment, automated backups, security)</li>
+                        </ul>
+                    </div>
+
+                    <div class="item">
+                        <h3 class="item-header">
+                            Back-end and Front-end Developer,
+                            <a href="https://saymandigital.com/">AzarOnline</a>
+                        </h3>
+                        <cite class="attention-small d-inline-block">04/2014 – 04/2017</cite>
+                        <cite class="attention-small d-inline-block mx-4">Tabriz, Iran</cite>
+
+                        <p class="description">
+                            AzarOnline is a popular server and hosting solution provider
+                        </p>
+                        <h4 class="attention-small">Achievements / Tasks</h4>
+                        <ul>
+                            <li>implemented an employee task assignment system
+                                integrated with WHMCS.</li>
+                            <li>implemented WHMCS templates.</li>
+                            <li>implemented an accounting reporting and filtering system.</li>
+                            <li>implemented WordPress theme and plugins.</li>
+                            <li>implemented HTML template for <a href="https://monovm.com">monovm.com</a>.</li>
                         </ul>
                     </div>
 
