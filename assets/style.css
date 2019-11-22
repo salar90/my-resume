@@ -46,3 +46,25 @@ header .photo img{
 .icon.i-medium{ background: url("icons/icon-medium.png")}
 .icon.i-phone{ background: url("icons/icon-phone.png")}
 .icon.i-www{ background: url("icons/icon-www.png")}
+
+.resume-body{
+    padding: 20px;
+    background: #FAFAFA;
+}
+.section-resume{
+
+}
+.section-resume .heading{
+    color: var(--blue);
+}
+.section-resume .item-header{
+    color: #222;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.section-resume .item-sub-header{
+    color: #222;
+    font-size: 1.1rem;
+    font-weight: normal;
+    display: block;
+}

@@ -59,7 +59,32 @@
     </div>
 
     <div class="resume-body">
-
+        <div class="row">
+            <div class="col-md-6">
+                <section class="section-resume">
+                    <h2 class="heading">Work Experience</h2>
+                    <div class="item">
+                        <h3 class="item-header">Back-end and Front-end Developer</h3>
+                        <span class="item-sub-header">SaymanDigital</span>
+                        <p class="description">
+                            SaymanDigital is an E-Commerce startup that sells digital equipment. It
+                            has reached an Alexa rank of 500 in Iran.
+                        </p>
+                        <h4 class="small-attention">Achievements / Tasks</h4>
+                        <ul>
+                            <li>implemented a new e-commerce platform using Laravel
+                                framwwork.</li>
+                            <li>implemented main SaymanDigital WordPress theme.</li>
+                            <li>implemented 20 WordPress plugins and extending WooCommerce.</li>
+                            <li>Applied SEO and speed optimizations.</li>
+                            <li>implemented backend for Application API.</li>
+                            <li>Administrating the main website (deployment, automated backups, security)</li>
+                        </ul>
+                    </div>
+                </section>
+            </div>
+            <div class="col-md-6"></div>
+        </div>
     </div>
 
 
