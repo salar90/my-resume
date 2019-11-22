@@ -78,6 +78,11 @@ header .photo img{
 .section-resume .item a:after{
     content: " 🔗";
 }
+@media print{
+    .section-resume .item a:after{
+        display: none;
+    }
+}
 .section-resume .item a.none-link:after{
     content: "";
 }
