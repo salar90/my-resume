@@ -144,12 +144,23 @@
                     <span class="skill">Linux</span>
                 </section>
 
-                <section class="section-resume">
+                <section class="section-resume mb-3">
                     <h2 class="heading">Honor Awards</h2>
                     <div class="item">
                         <h3 class="item-header">1st rank in ACPC programming contest</h3>
                         <p class="description mb-0">ACPC was a programming contest in East Azarbayjan state of Iran</p>
                         <cite class="attention-small">12/2010</cite>
+                    </div>
+                </section>
+
+                <section class="section-resume">
+                    <h2 class="heading">Relevant Education</h2>
+                    <div class="item">
+                        <h3 class="item-header">
+                            BS in Information Technology,
+                            Azarbayjan Shahid Madani University, EA, Iran
+                        </h3>
+                        <cite class="attention-small d-inline-block">09/2019 – 03/2014</cite>
                     </div>
                 </section>
 
