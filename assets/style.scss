@@ -6,28 +6,28 @@
 header{
     background: #374458;
     padding: 20px;
+    .name{
+        color: #FFF;
+    }
+    .title{
+        color: #4b96db;
+    }
+    .description{
+        color: #FFF;
+    }
+    .photo{
+        width: 150px;
+        height: 150px;
+        border-radius: 100%;
+        border: 7px solid #4f90cd;
+        overflow: hidden;
+        img{
+            max-width: 100%;
+            height: auto;
+        }
+    }
 }
-header .name{
-    color: #FFF;
-}
-header .title{
-    color: #4b96db;
-}
-header .description{
-    color: #FFF;
-}
-header .photo{
-    width: 150px;
-    height: 150px;
-    border-radius: 100%;
-    border: 7px solid #4f90cd;
-    overflow: hidden;
-}
-header .photo img{
-    max-width: 100%;
-    height: auto;
-}
-/* Contact */
+
 .section-contact{
     background: #2b343f;
     padding: 20px;
@@ -39,55 +39,60 @@ header .photo img{
     height: 32px;
     display: inline-block;
     vertical-align: middle;
+    &.i-mail{ background: url("icons/icon-mail.png")}
+    &.i-github{ background: url("icons/icon-github.png")}
+    &.i-location{ background: url("icons/icon-location.png")}
+    &.i-medium{ background: url("icons/icon-medium.png")}
+    &.i-phone{ background: url("icons/icon-phone.png")}
+    &.i-www{ background: url("icons/icon-www.png")}
 }
-.icon.i-mail{ background: url("icons/icon-mail.png")}
-.icon.i-github{ background: url("icons/icon-github.png")}
-.icon.i-location{ background: url("icons/icon-location.png")}
-.icon.i-medium{ background: url("icons/icon-medium.png")}
-.icon.i-phone{ background: url("icons/icon-phone.png")}
-.icon.i-www{ background: url("icons/icon-www.png")}
 
 .resume-body{
     padding: 20px;
     background: #FAFAFA;
 }
 .section-resume{
+    .heading{
+        color: var(--blue);
+        text-decoration: underline;
+        text-transform: uppercase;
+        font-size: 1.8rem;
+    }
+    .item-header{
+        color: #222;
+        font-size: 1.2rem;
+        font-weight: bold;
+        margin: 0;
+    }
+    .item-sub-header{
+        color: #222;
+        font-size: 1.1rem;
+        font-weight: normal;
+        display: block;
+    }
+    .item{
+        a{
+            display: inline-block;
+            &:after{
+                content: " 🔗";
+            }
+            &:after{
+                display: none;
+            }
+            &.none-link:after{
+                content: "";
+            }
+        }
+        p{
+            margin-bottom: .5rem;
+        }
+    }
+}
 
-}
-.section-resume .heading{
-    color: var(--blue);
-    text-decoration: underline;
-    text-transform: uppercase;
-    font-size: 1.8rem;
-}
-.section-resume .item-header{
-    color: #222;
-    font-size: 1.2rem;
-    font-weight: bold;
-    margin: 0;
-}
-.section-resume .item-sub-header{
-    color: #222;
-    font-size: 1.1rem;
-    font-weight: normal;
-    display: block;
-}
-.section-resume .item a{
-    display: inline-block;
-}
-.section-resume .item a:after{
-    content: " 🔗";
-}
 @media print{
     .section-resume .item a:after{
         display: none;
     }
-}
-.section-resume .item a.none-link:after{
-    content: "";
-}
-.section-resume .item p{
-    margin-bottom: .5rem;
 }
 .attention-small{
     color: var(--blue);

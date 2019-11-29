@@ -8,19 +8,15 @@ header {
   background: #374458;
   padding: 20px;
 }
-
 header .name {
   color: #FFF;
 }
-
 header .title {
   color: #4b96db;
 }
-
 header .description {
   color: #FFF;
 }
-
 header .photo {
   width: 150px;
   height: 150px;
@@ -28,13 +24,11 @@ header .photo {
   border: 7px solid #4f90cd;
   overflow: hidden;
 }
-
 header .photo img {
   max-width: 100%;
   height: auto;
 }
 
-/* Contact */
 .section-contact {
   background: #2b343f;
   padding: 20px;
@@ -47,27 +41,21 @@ header .photo img {
   display: inline-block;
   vertical-align: middle;
 }
-
 .icon.i-mail {
   background: url("icons/icon-mail.png");
 }
-
 .icon.i-github {
   background: url("icons/icon-github.png");
 }
-
 .icon.i-location {
   background: url("icons/icon-location.png");
 }
-
 .icon.i-medium {
   background: url("icons/icon-medium.png");
 }
-
 .icon.i-phone {
   background: url("icons/icon-phone.png");
 }
-
 .icon.i-www {
   background: url("icons/icon-www.png");
 }
@@ -83,27 +71,32 @@ header .photo img {
   text-transform: uppercase;
   font-size: 1.8rem;
 }
-
 .section-resume .item-header {
   color: #222;
   font-size: 1.2rem;
   font-weight: bold;
   margin: 0;
 }
-
 .section-resume .item-sub-header {
   color: #222;
   font-size: 1.1rem;
   font-weight: normal;
   display: block;
 }
-
 .section-resume .item a {
   display: inline-block;
 }
-
 .section-resume .item a:after {
   content: " 🔗";
+}
+.section-resume .item a:after {
+  display: none;
+}
+.section-resume .item a.none-link:after {
+  content: "";
+}
+.section-resume .item p {
+  margin-bottom: 0.5rem;
 }
 
 @media print {
@@ -111,14 +104,6 @@ header .photo img {
     display: none;
   }
 }
-.section-resume .item a.none-link:after {
-  content: "";
-}
-
-.section-resume .item p {
-  margin-bottom: 0.5rem;
-}
-
 .attention-small {
   color: var(--blue);
   font-size: 0.9rem;
