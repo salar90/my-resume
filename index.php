@@ -22,8 +22,8 @@
 
             <div class="col">
                 <div class="name h1">Salar Gholizadeh</div>
-                <div class="title mb-2">Software Developer</div>
-                <div class="description">I love crafting high quality apps on time.</div>
+                <div class="title mb-2">Web Developer</div>
+                <div class="description">I love working with teams to craft useful apps.</div>
             </div>
         </div>
     </header>
@@ -40,7 +40,7 @@
 
             <span class="col-md-6 mb-1">
                 <i class="icon i-location"></i>
-                Mashrooteh Blvd, Tabriz, Iran
+                Tabriz, Iran
             </span>
             <span class="col-md-6 mb-1">
                 <i class="icon i-www"></i>
