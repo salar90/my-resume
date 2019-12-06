@@ -18,10 +18,10 @@ header .description {
   color: #FFF;
 }
 header .photo {
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  height: 120px;
   border-radius: 100%;
-  border: 5px solid #4f90cd;
+  border: 3px solid #4f90cd;
   overflow: hidden;
 }
 header .photo img {
@@ -99,6 +99,13 @@ header .photo img {
 @media print {
   .section-resume .item a:after {
     display: none;
+  }
+
+  header {
+    background: #FFF;
+  }
+  header .name {
+    color: #2b343f;
   }
 }
 .attention-small {

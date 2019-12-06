@@ -6,6 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="assets/bootstrap-4.3.1-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
     <link rel="stylesheet" href="assets/style.css">
     <script src="assets/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js"></script>
     <title>Salar Gholizadeh</title>
@@ -29,30 +30,30 @@
     </header>
     <div class="section-contact">
         <div class="row">
-            <span class="col-md-6 mb-1">
-                <i class="icon i-mail"></i>
+            <span class="col-md-4 mb-1">
+                <i class="las la-envelope"></i>
                 salar.g@gmail.com
             </span>
-            <span class="col-md-6 mb-1">
-                <i class="icon i-phone"></i>
+            <span class="col-md-4 mb-1">
+                <i class="las la-phone"></i>
                 +98-9149000795
             </span>
 
-            <span class="col-md-6 mb-1">
-                <i class="icon i-location"></i>
+            <span class="col-md-4 mb-1">
+                <i class="las la-map-marker"></i>
                 Tabriz, Iran
             </span>
-            <span class="col-md-6 mb-1">
-                <i class="icon i-www"></i>
+            <span class="col-md-4 mb-1">
+                <i class="las la-link"></i>
                 http://salar.one/
             </span>
 
-            <span class="col-md-6 mb-1">
-                <i class="icon i-github"></i>
+            <span class="col-md-4 mb-1">
+                <i class="lab la-github"></i>
                 github.com/salar90
             </span>
-            <span class="col-md-6 mb-1">
-                <i class="icon i-medium"></i>
+            <span class="col-md-4 mb-1">
+                <i class="lab la-medium"></i>
                 medium.com/@salar_one
             </span>
         </div>
