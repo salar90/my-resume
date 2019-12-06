@@ -6,7 +6,7 @@
 /* Header */
 header {
   background: #374458;
-  padding: 20px;
+  padding: 20px 20px 10px;
 }
 header .name {
   color: #FFF;
@@ -54,7 +54,7 @@ header .photo img {
 
 .section-contact {
   background: #2b343f;
-  padding: 20px;
+  padding: 10px 20px 20px;
   color: #FFF;
 }
 @media print {
