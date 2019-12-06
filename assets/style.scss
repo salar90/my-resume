@@ -1,3 +1,6 @@
+
+$dark: #222;
+
 .container.container-page{
     max-width: 30cm;
 }
@@ -8,12 +11,21 @@ header{
     padding: 20px;
     .name{
         color: #FFF;
+        @media print {
+            color: $dark;
+        }
     }
     .title{
         color: #4b96db;
+        @media print {
+            color: darken(#4b96db, 20%);
+        }
     }
     .description{
         color: #FFF;
+        @media print {
+            color: $dark;
+        }
     }
     .photo{
         width: 120px;
@@ -26,12 +38,22 @@ header{
             height: auto;
         }
     }
+    @media print{
+        background: #FFF;
+        .name{
+            color: $dark;
+        }
+    }
 }
 
 .section-contact{
     background: #2b343f;
     padding: 20px;
     color: #FFF;
+    @media print{
+        color: $dark;
+        background: #FFF;
+    }
 }
 
 .icon{
@@ -60,13 +82,13 @@ header{
         font-weight: 400;
     }
     .item-header{
-        color: #222;
+        color: $dark;
         font-size: 1.1rem;
         font-weight: 600;
         margin: 0;
     }
     .item-sub-header{
-        color: #222;
+        color: $dark;
         font-size: 1.1rem;
         font-weight: normal;
         display: block;
@@ -86,19 +108,13 @@ header{
             margin-bottom: .5rem;
         }
     }
-}
-
-@media print{
-    .section-resume .item a:after{
-        display: none;
-    }
-    header{
-        background: #FFF;
-        .name{
-            color: #2b343f;
+    @media print {
+        .item a:after {
+            display: none;
         }
     }
 }
+
 .attention-small{
     color: var(--blue);
     font-size: .9rem;
