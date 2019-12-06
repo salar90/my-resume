@@ -67,8 +67,6 @@ header .photo img {
 
 .section-resume .heading {
   color: var(--blue);
-  text-decoration: underline;
-  text-transform: uppercase;
   font-size: 1.8rem;
   font-weight: 400;
 }
