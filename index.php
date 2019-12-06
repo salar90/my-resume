@@ -12,7 +12,7 @@
     <title>Salar Gholizadeh</title>
 </head>
 <body>
-<div class="container container-page">
+<div class="container">
     <header>
         <div class="row">
             <div class="col-12 col-md-auto order-md-1">
