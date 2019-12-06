@@ -11,26 +11,11 @@ header {
 header .name {
   color: #FFF;
 }
-@media print {
-  header .name {
-    color: #222;
-  }
-}
 header .title {
   color: #4b96db;
 }
-@media print {
-  header .title {
-    color: #2063a0;
-  }
-}
 header .description {
   color: #FFF;
-}
-@media print {
-  header .description {
-    color: #222;
-  }
 }
 header .photo {
   width: 120px;
@@ -43,25 +28,11 @@ header .photo img {
   max-width: 100%;
   height: auto;
 }
-@media print {
-  header {
-    background: #FFF;
-  }
-  header .name {
-    color: #222;
-  }
-}
 
 .section-contact {
   background: #2b343f;
   padding: 10px 20px 20px;
   color: #FFF;
-}
-@media print {
-  .section-contact {
-    color: #222;
-    background: #FFF;
-  }
 }
 
 .icon {
@@ -123,11 +94,6 @@ header .photo img {
 }
 .section-resume .item p {
   margin-bottom: 0.5rem;
-}
-@media print {
-  .section-resume .item a:after {
-    display: none;
-  }
 }
 
 .attention-small {

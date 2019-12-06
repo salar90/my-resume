@@ -11,21 +11,21 @@ header{
     padding: 20px 20px 10px;
     .name{
         color: #FFF;
-        @media print {
-            color: $dark;
-        }
+        //@media print {
+        //    color: $dark;
+        //}
     }
     .title{
         color: #4b96db;
-        @media print {
-            color: darken(#4b96db, 20%);
-        }
+        //@media print {
+        //    color: darken(#4b96db, 20%);
+        //}
     }
     .description{
         color: #FFF;
-        @media print {
-            color: $dark;
-        }
+        //@media print {
+        //    color: $dark;
+        //}
     }
     .photo{
         width: 120px;
@@ -38,22 +38,22 @@ header{
             height: auto;
         }
     }
-    @media print{
-        background: #FFF;
-        .name{
-            color: $dark;
-        }
-    }
+    //@media print{
+    //    background: #FFF;
+    //    .name{
+    //        color: $dark;
+    //    }
+    //}
 }
 
 .section-contact{
     background: #2b343f;
     padding: 10px 20px 20px;
     color: #FFF;
-    @media print{
-        color: $dark;
-        background: #FFF;
-    }
+    //@media print{
+    //    color: $dark;
+    //    background: #FFF;
+    //}
 }
 
 .icon{
@@ -108,11 +108,11 @@ header{
             margin-bottom: .5rem;
         }
     }
-    @media print {
-        .item a:after {
-            display: none;
-        }
-    }
+    //@media print {
+    //    .item a:after {
+    //        display: none;
+    //    }
+    //}
 }
 
 .attention-small{
