@@ -90,7 +90,9 @@ header .photo img {
   color: inherit;
 }
 .section-resume .item a:after {
-  content: " 🔗";
+  font-family: "Line Awesome Free";
+  content: "";
+  color: var(--blue);
 }
 .section-resume .item a.none-link:after {
   content: "";

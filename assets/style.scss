@@ -101,7 +101,9 @@ header{
             display: inline-block;
             color: inherit;
             &:after{
-                content: " 🔗";
+                font-family: 'Line Awesome Free';
+                content: "\f0c1";
+                color: var(--blue);
             }
             &.none-link:after{
                 content: "";
