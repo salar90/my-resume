@@ -16,10 +16,10 @@ header{
         color: #FFF;
     }
     .photo{
-        width: 150px;
-        height: 150px;
+        width: 120px;
+        height: 120px;
         border-radius: 100%;
-        border: 5px solid #4f90cd;
+        border: 3px solid #4f90cd;
         overflow: hidden;
         img{
             max-width: 100%;
@@ -91,6 +91,12 @@ header{
 @media print{
     .section-resume .item a:after{
         display: none;
+    }
+    header{
+        background: #FFF;
+        .name{
+            color: #2b343f;
+        }
     }
 }
 .attention-small{
