@@ -3,6 +3,10 @@
   max-width: 30cm;
 }
 
+body {
+  background: #FAFAFA;
+}
+
 /* Header */
 header {
   background: #374458;
@@ -65,7 +69,6 @@ header .photo img {
 
 .resume-body {
   padding: 20px;
-  background: #FAFAFA;
 }
 
 .section-resume .heading {
@@ -93,6 +96,7 @@ header .photo img {
   font-family: "Line Awesome Free";
   content: "";
   color: var(--blue);
+  font-weight: bold;
 }
 .section-resume .item a.none-link:after {
   content: "";

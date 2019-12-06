@@ -4,6 +4,9 @@ $dark: #222;
 .container.container-page{
     max-width: 30cm;
 }
+body{
+    background: #FAFAFA;
+}
 
 /* Header */
 header{
@@ -74,7 +77,6 @@ header{
 
 .resume-body{
     padding: 20px;
-    background: #FAFAFA;
 }
 .section-resume{
     .heading{
@@ -104,6 +106,7 @@ header{
                 font-family: 'Line Awesome Free';
                 content: "\f0c1";
                 color: var(--blue);
+                font-weight: bold;
             }
             &.none-link:after{
                 content: "";
