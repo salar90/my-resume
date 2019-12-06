@@ -21,7 +21,7 @@ header .photo {
   width: 150px;
   height: 150px;
   border-radius: 100%;
-  border: 7px solid #4f90cd;
+  border: 5px solid #4f90cd;
   overflow: hidden;
 }
 header .photo img {
