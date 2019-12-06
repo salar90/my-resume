@@ -70,11 +70,12 @@ header .photo img {
   text-decoration: underline;
   text-transform: uppercase;
   font-size: 1.8rem;
+  font-weight: 400;
 }
 .section-resume .item-header {
   color: #222;
-  font-size: 1.2rem;
-  font-weight: bold;
+  font-size: 1.1rem;
+  font-weight: 600;
   margin: 0;
 }
 .section-resume .item-sub-header {
@@ -85,12 +86,10 @@ header .photo img {
 }
 .section-resume .item a {
   display: inline-block;
+  color: inherit;
 }
 .section-resume .item a:after {
   content: " 🔗";
-}
-.section-resume .item a:after {
-  display: none;
 }
 .section-resume .item a.none-link:after {
   content: "";

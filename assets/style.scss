@@ -57,11 +57,12 @@ header{
         text-decoration: underline;
         text-transform: uppercase;
         font-size: 1.8rem;
+        font-weight: 400;
     }
     .item-header{
         color: #222;
-        font-size: 1.2rem;
-        font-weight: bold;
+        font-size: 1.1rem;
+        font-weight: 600;
         margin: 0;
     }
     .item-sub-header{
@@ -73,11 +74,9 @@ header{
     .item{
         a{
             display: inline-block;
+            color: inherit;
             &:after{
                 content: " 🔗";
-            }
-            &:after{
-                display: none;
             }
             &.none-link:after{
                 content: "";

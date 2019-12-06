@@ -144,6 +144,18 @@
                     <span class="skill">Linux</span>
                 </section>
 
+                <section class="section-resume">
+                    <h2 class="heading">Publications</h2>
+                    <div class="item mb-3">
+                        <h3 class="item-header"><a href="https://medium.com/@salar_one/an-approach-to-saving-enum-data-types-in-php-d8a4963259ca">An approach to saving enum data types in PHP</a></h3>
+                        <span class="attention-small">September 23, 2019</span>
+                    </div>
+                    <div class="item">
+                        <h3 class="item-header"><a href="https://medium.com/@salar_one/how-to-track-wordpress-rest-api-usage-stats-66bc8bf13341">How to track WordPress REST API usage stats?</a></h3>
+                        <span class="attention-small">September 23, 2019</span>
+                    </div>
+                </section>
+
                 <section class="section-resume mb-3">
                     <h2 class="heading">Honor Awards</h2>
                     <div class="item">
