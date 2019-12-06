@@ -77,18 +77,18 @@
                         </p>
                         <h4 class="attention-small">Achievements / Tasks</h4>
                         <ul>
-                            <li>implemented a new e-commerce platform using Laravel
+                            <li>Implemented a new e-commerce platform using Laravel
                                 framework.</li>
-                            <li>implemented main SaymanDigital WordPress theme.</li>
-                            <li>implemented 20 WordPress plugins and extending WooCommerce.</li>
+                            <li>Implemented main SaymanDigital WordPress theme.</li>
+                            <li>Implemented 20 WordPress plugins and extending WooCommerce.</li>
                             <li>Applied SEO and speed optimizations.</li>
-                            <li>implemented backend for Application API.</li>
+                            <li>Implemented backend for Application API.</li>
                             <li>Administrating the main website (deployment, automated backups, security)</li>
                             <li>Awarded 3 times as well-performing employee of the month.</li>
                         </ul>
                     </div>
 
-                    <div class="item">
+                    <div class="item mb-3">
                         <h3 class="item-header">
                             Back-end and Front-end Developer,
                             <a href="https://saymandigital.com/">AzarOnline</a>
@@ -101,12 +101,13 @@
                         </p>
                         <h4 class="attention-small">Achievements / Tasks</h4>
                         <ul>
-                            <li>implemented an employee task assignment system
+                            <li>Implemented an employee task assignment system
                                 integrated with WHMCS.</li>
-                            <li>implemented WHMCS templates.</li>
-                            <li>implemented an accounting reporting and filtering system.</li>
-                            <li>implemented WordPress theme and plugins.</li>
-                            <li>implemented HTML template for <a href="https://monovm.com">monovm.com</a>.</li>
+                            <li>Implemented HTML template for <a href="https://monovm.com">monovm.com</a>.</li>
+                            <li>Implemented WHMCS templates.</li>
+                            <li>Implemented an accounting reporting and filtering system.</li>
+                            <li>Deployed WordPress themes and plugins for customer websites.</li>
+                            <li>Implemented WordPress themes and plugins.</li>
                         </ul>
 
                         <div class="small">
@@ -114,6 +115,24 @@
                             Sina Nassiri –
                             <a class="none-link" href="mailto://info@azarinline.com">info@azarinline.com</a>
                         </div>
+                    </div>
+
+                    <div class="item">
+                        <h3 class="item-header">
+                            Founder, Front-end Developer,
+                            Arda System
+                        </h3>
+                        <cite class="attention-small d-inline-block">07/2013 – 02/2014</cite>
+                        <cite class="attention-small d-inline-block mx-4">Tabriz, Iran</cite>
+
+                        <p class="description">
+                            ArdaSystem was a company founded by me and 3 of my university classmates. We decided to end it as it was not successful.
+                        </p>
+                        <h4 class="attention-small">Achievements / Tasks</h4>
+                        <ul>
+                            <li>Implemented 4 HTML Templates</li>
+                            <li>Implemented 2 WordPress themes.</li>
+                        </ul>
                     </div>
 
                 </section>
