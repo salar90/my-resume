@@ -32,29 +32,29 @@
         <div class="row">
             <span class="col-md-4 mb-1">
                 <i class="las la-envelope"></i>
-                salar.g@gmail.com
+                <a target="_blank" href="mailto:salar.g@gmail.com">salar.g@gmail.com</a>
             </span>
             <span class="col-md-4 mb-1">
                 <i class="las la-phone"></i>
-                +98-9149000795
+                <a target="_blank" href="tel:+98-9149000795">+98-9149000795</a>
             </span>
 
             <span class="col-md-4 mb-1">
                 <i class="las la-map-marker"></i>
-                Tabriz, Iran
+                <a target="_blank" href="https://www.google.com/maps/place/Tabriz,+East+Azerbaijan+Province,+Iran">Tabriz, Iran</a>
             </span>
             <span class="col-md-4 mb-1">
                 <i class="las la-link"></i>
-                http://salar.one/
+                <a target="_blank" href="http://salar.one/">http://salar.one</a>
             </span>
 
             <span class="col-md-4 mb-1">
                 <i class="lab la-github"></i>
-                github.com/salar90
+                <a target="_blank" href="github.com/salar90">github.com/salar90</a>
             </span>
             <span class="col-md-4 mb-1">
                 <i class="lab la-medium"></i>
-                medium.com/@salar_one
+                <a target="_blank" href="medium.com/@salar_one">salar_one</a>
             </span>
         </div>
     </div>

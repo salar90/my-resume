@@ -34,6 +34,9 @@ header .photo img {
   padding: 10px 20px 20px;
   color: #FFF;
 }
+.section-contact a {
+  color: #FFF;
+}
 
 .icon {
   width: 32px;
