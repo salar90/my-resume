@@ -50,11 +50,11 @@
 
             <span class="col-md-4 mb-1">
                 <i class="lab la-github"></i>
-                <a target="_blank" href="github.com/salar90">github.com/salar90</a>
+                <a target="_blank" href="https://github.com/salar90">github.com/salar90</a>
             </span>
             <span class="col-md-4 mb-1">
                 <i class="lab la-medium"></i>
-                <a target="_blank" href="medium.com/@salar_one">salar_one</a>
+                <a target="_blank" href="https://medium.com/@salar_one">salar_one</a>
             </span>
         </div>
     </div>
