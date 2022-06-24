@@ -1,4 +1,3 @@
-@charset "UTF-8";
 .container.container-page {
   max-width: 30cm;
 }
@@ -94,7 +93,7 @@ header .photo img {
 }
 .section-resume .item a:after {
   font-family: "Line Awesome Free";
-  content: "";
+  content: "\f0c1";
   color: var(--blue);
   font-weight: bold;
 }
@@ -122,6 +121,30 @@ header .photo img {
   padding: 4px 8px;
   color: #FFF;
   margin-bottom: 5px;
+}
+
+@media print {
+  header {
+    background: #FFF;
+    border-bottom: 1px solid #222;
+  }
+  header .name {
+    color: #222;
+  }
+  header .description {
+    color: #222;
+  }
+  .section-contact {
+    background: #FFF;
+    color: #222;
+  }
+  .section-contact a {
+    color: #222;
+  }
+  .skill {
+    background: unset;
+    color: unset;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */

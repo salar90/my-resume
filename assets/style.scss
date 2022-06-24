@@ -41,12 +41,6 @@ header{
             height: auto;
         }
     }
-    //@media print{
-    //    background: #FFF;
-    //    .name{
-    //        color: $dark;
-    //    }
-    //}
 }
 
 .section-contact{
@@ -56,10 +50,6 @@ header{
     a{
         color: #FFF;
     }
-    //@media print{
-    //    color: $dark;
-    //    background: #FFF;
-    //}
 }
 
 .icon{
@@ -139,4 +129,28 @@ header{
     padding: 4px 8px;
     color: #FFF;
     margin-bottom: 5px;
+}
+
+@media print{
+    header{
+        background: #FFF;
+        .name{
+            color: $dark;
+        }
+        .description{
+            color: $dark;
+        }
+        border-bottom: 1px solid $dark;
+    }
+    .section-contact{
+        background: #FFF;
+        color: $dark;
+        a{
+            color: $dark;
+        }
+    }
+    .skill{
+        background: unset;
+        color: unset;
+    }
 }
