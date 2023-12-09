@@ -72,8 +72,8 @@ header .photo img {
 
 .section-resume .heading {
   color: var(--blue);
-  font-size: 1.8rem;
-  font-weight: 400;
+  font-size: 1.4rem;
+  font-weight: 600;
 }
 .section-resume .item-header {
   color: #222;
